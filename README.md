@@ -1,2 +1,18 @@
-# Python-calculator-
-A simple calculator built using Python that performs basic arithmetic operations like addition, subtraction, multiplication, and division. Created to practice programming fundamentals.
+# Python Calculator
+
+This is a simple calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## What I Learned
+- Taking user input
+- Using functions
+- Basic logic building in Python
+
+## How to Run
+1. Download the file
+2. Run using Python
