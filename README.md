@@ -1,7 +1,9 @@
 # Python Calculator
 
 This is a simple calculator built using Python.
+## 📸 Example Output
 
+![Calculator Screenshot](calculator.jpg)
 ## Features
 - Addition
 - Subtraction
